@@ -1,0 +1,66 @@
+{
+"VideoData" :	[
+	{"CatId" :"1",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} ,{"CatId" :"2",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} ,{"CatId" :"3",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} ,{"CatId" :"101",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} ,{"CatId" :"102",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} ,
+{"CatId" :"103",
+	"VideoUrl":[{ "thmub":"https://i.ytimg.com/vi/pkzOBl1p7y4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTSgj1Qut6XgXHPQc0NE2LaXzCrQ","url":"https://youtu.be/pkzOBl1p7y4?si=SyVmCCkJChjscOXX","name":"Jeene Laga Hoon | Ramaiya Vastavaiya ","views":"10M","duration":"03:20"},
+				{ "thmub":"https://i.ytimg.com/vi/IgqC3hOSxbo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGIoMzAP&rs=AOn4CLDoEsGz64r9jlBDZUHhEhRmoBMNRw","url":"https://youtu.be/IgqC3hOSxbo?si=8IJb2lokYe_a067-","name":"Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya","views":"30k","duration":"05:00"},
+				 { "thmub":"https://i.ytimg.com/vi/kygAR6affbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCok1Q30FNkonBZ4xUc3UCnGckIOQ","url":"https://youtu.be/kygAR6affbs?si=6pt53XQQmN5ChfoH","name":"Thodi der | Half Girlfriend | Arjun Kapoor & Shradha Kapoor | Farhan Saeed & Shreya Ghoshal | Kumar","views":"10M","duration":"08:11"},
+				{ "thmub":"https://i.ytimg.com/vi/UWZlaKnjABs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXw20vvQT_cq4vU3XvcML1rzuNiQ","url":"https://youtu.be/UWZlaKnjABs?si=jTLDcSFoJlFv88SB","name":"FILHALL - Akshay Kumar Ft Nupur Sanon | BPraak - Jaani | Arvindr Khaira - Ammy Virk","views":"100k","duration":"5:00"}
+				 ]
+
+
+ 
+	} 
+
+
+
+
+
+]
+
+}
