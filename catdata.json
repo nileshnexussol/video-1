@@ -1,18 +1,229 @@
 {
-"Data" :	[
-	{"Tag" :"Notificaiton",
-
-	"Category":[{"id":"1","thmub":"https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg","name":"Love Vibes",
-		
-
-
-	},{"id":"2","thmub":"https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg","name":"Vibes"},{"id":"3","thmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg","name":"Hits"} ]
-
-	},
-	{"Tag" :"Mood",
-
-	"Category":[{"id":"101","thmub":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg","name":"Romantic"},{"id":"102","thmub":"https://images.pexels.com/photos/101667/pexels-photo-101667.jpeg","name":"Sad"},{"id":"103","thmub":"https://images.pexels.com/photos/1212693/pexels-photo-1212693.jpeg","name":"In Love"} ]
-
-	} 
+	"Data": [
+		{
+			"Tag": "Notificaion",
+			"Category": [
+				{
+					"id": "1",
+					"thmub": "https://nexusemployee416.github.io/video/notification1.png",
+					"name": "Popular Artist"
+				},
+				{
+					"id": "2",
+					"thmub": "https://nexusemployee416.github.io/video/notification2.png",
+					"name": "Popular Tracks"
+				}
+			]
+		},
+		{
+			"Tag": "Mood",
+			"Category": [
+				{
+					"id": "401",
+					"thmub": "https://nexusemployee416.github.io/video/mood1.png",
+					"name": "Romantic"
+				},
+				{
+					"id": "402",
+					"thmub": "https://nexusemployee416.github.io/video/mood2.png",
+					"name": "Sad"
+				},
+				{
+					"id": "403",
+					"thmub": "https://nexusemployee416.github.io/video/mood3.png",
+					"name": "In Love"
+				},
+				{
+					"id": "404",
+					"thmub": "https://nexusemployee416.github.io/video/mood4.png",
+					"name": "Happy"
+				},
+				{
+					"id": "405",
+					"thmub": "https://nexusemployee416.github.io/video/mood5.png",
+					"name": "In Concentration"
+				}
+			]
+		},
+		{
+			"Tag": "Artist",
+			"Category": [
+				{
+					"id": "501",
+					"thmub": "https://nexusemployee416.github.io/video/artist1.png",
+					"name": "Weeknd"
+				},
+				{
+					"id": "502",
+					"thmub": "https://nexusemployee416.github.io/video/artist2.png",
+					"name": "Sad"
+				},
+				{
+					"id": "503",
+					"thmub": "https://nexusemployee416.github.io/video/artist3.png",
+					"name": "Honey Singh"
+				},
+				{
+					"id": "504",
+					"thmub": "https://nexusemployee416.github.io/video/artist4.png",
+					"name": "Ar Rehman"
+				},
+				{
+					"id": "505",
+					"thmub": "https://nexusemployee416.github.io/video/artist5.png",
+					"name": "Arjit Singh"
+				},
+				{
+					"id": "506",
+					"thmub": "https://nexusemployee416.github.io/video/artist6.png",
+					"name": "Billie Elish"
+				},
+				{
+					"id": "507",
+					"thmub": "https://nexusemployee416.github.io/video/artist7.png",
+					"name": "Sidhu Moosevala"
+				},
+				{
+					"id": "508",
+					"thmub": "https://nexusemployee416.github.io/video/artist8.png",
+					"name": "Salena Gomez"
+				},
+				{
+					"id": "509",
+					"thmub": "https://nexusemployee416.github.io/video/artist9.png",
+					"name": "Diljit"
+				},
+				{
+					"id": "5010",
+					"thmub": "https://nexusemployee416.github.io/video/artist10.png",
+					"name": "Dua Lipa"
+				}
+			]
+		},
+		{
+			"Tag": "Standup Comedy",
+			"Category": [
+				{
+					"id": "601",
+					"thmub": "https://nexusemployee416.github.io/video/standup1.png",
+					"name": "Aditi"
+				},
+				{
+					"id": "602",
+					"thmub": "https://nexusemployee416.github.io/video/standup2.png",
+					"name": "Bassi"
+				},
+				{
+					"id": "603",
+					"thmub": "https://nexusemployee416.github.io/video/standup3.png",
+					"name": "Abhishek"
+				},
+				{
+					"id": "604",
+					"thmub": "https://nexusemployee416.github.io/video/standup4.png",
+					"name": "Akash"
+				},
+				{
+					"id": "605",
+					"thmub": "https://nexusemployee416.github.io/video/standup5.png",
+					"name": "Harsh"
+				},
+				{
+					"id": "606",
+					"thmub": "https://nexusemployee416.github.io/video/standup6.png",
+					"name": "Kevin"
+				},
+				{
+					"id": "607",
+					"thmub": "https://nexusemployee416.github.io/video/standup7.png",
+					"name": "Kenny"
+				}
+			]
+		},
+		{
+			"Tag": "Old is Gold",
+			"Category": [
+				{
+					"id": "701",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold1.png",
+					"name": "Asha Bhosle"
+				},
+				{
+					"id": "702",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold2.png",
+					"name": "Kumar Sanu"
+				},
+				{
+					"id": "703",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold3.png",
+					"name": "Mohmad Raffi"
+				},
+				{
+					"id": "704",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold4.png",
+					"name": "Lata Mangeshkar"
+				},
+				{
+					"id": "705",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold5.png",
+					"name": "RB Barman"
+				},
+				{
+					"id": "706",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold6.png",
+					"name": "Kishor Kumar"
+				},
+				{
+					"id": "707",
+					"thmub": "https://nexusemployee416.github.io/video/oldisgold7.png",
+					"name": "Mukesh"
+				}
+			]
+		},
+		{
+			"Tag": "Top Influencer",
+			"Category": [
+				{
+					"id": "801",
+					"thmub": "https://nexusemployee416.github.io/video/influencer1.png",
+					"name": "Technical Guruji"
+				},
+				{
+					"id": "802",
+					"thmub": "https://nexusemployee416.github.io/video/influencer2.png",
+					"name": "Raj Shamani"
+				},
+				{
+					"id": "803",
+					"thmub": "https://nexusemployee416.github.io/video/influencer3.png",
+					"name": "Sandeep MAheshwari"
+				},
+				{
+					"id": "804",
+					"thmub": "https://nexusemployee416.github.io/video/influencer4.png",
+					"name": "Mr Beast"
+				},
+				{
+					"id": "805",
+					"thmub": "https://nexusemployee416.github.io/video/influencer5.png",
+					"name": "Urno Mashley"
+				},
+				{
+					"id": "806",
+					"thmub": "https://nexusemployee416.github.io/video/influencer6.png",
+					"name": "Payal Gaming"
+				},
+				{
+					"id": "807",
+					"thmub": "https://nexusemployee416.github.io/video/influencer7.png",
+					"name": "Ranveer Allhabadia"
+				},
+				{
+					"id": "808",
+					"thmub": "https://nexusemployee416.github.io/video/influencer8.png",
+					"name": "Harsh Beniwal"
+				}
+			]
+		}
 	]
 }
