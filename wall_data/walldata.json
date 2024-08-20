@@ -2,6 +2,11 @@
 
 
   "Category" :	[
+     {
+      "CategoryName" :"Camera",
+      "CategoryId":100,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_camera.webp"
+    } ,
     {
       "CategoryName" :"Nature",
       "CategoryId":101,
@@ -63,6 +68,41 @@
 
 ,
   "WallPaper":[
+     {
+      "CategoryId":100,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/animal/camera01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera12.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera13.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera14.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera15.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera16.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera17.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera18.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera19.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera20.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera21.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera22.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera23.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera24.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera25.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera26.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera27.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera28.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera29.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/animal/camera30.webp"
+      ]
+    },
+    
     {
       "CategoryId":101,
       "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/nature/nature_1.webp",
