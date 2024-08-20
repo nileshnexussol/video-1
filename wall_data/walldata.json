@@ -2,6 +2,34 @@
 
 
   "Category" :	[
+
+     {
+      "CategoryName" :"360 Camera",
+      "CategoryId":95,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_360.webp"
+    } ,
+
+     {
+      "CategoryName" :"DSLR Camera",
+      "CategoryId":96,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_dslr.webp"
+    } ,
+     {
+      "CategoryName" :"CCTV Camera",
+      "CategoryId":97,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_cctv.webp"
+    } ,
+     {
+      "CategoryName" :"OLD Camera",
+      "CategoryId":98,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_oldcam.webp"
+    } ,
+     {
+      "CategoryName" :"Professional Camera",
+      "CategoryId":99,
+      "CategoryThmub":"https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_profcam.webp"
+    } ,
+    
      {
       "CategoryName" :"Camera",
       "CategoryId":100,
@@ -68,6 +96,94 @@
 
 ,
   "WallPaper":[
+
+{
+      "CategoryId":95,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/360cam01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/360cam12.webp"
+      ]
+    },
+
+
+{
+      "CategoryId":96,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/dslr01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/dslr12.webp"
+      ]
+    },
+
+
+{
+      "CategoryId":97,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/CCTVCamera12.webp"
+      ]
+    },
+
+
+{
+      "CategoryId":98,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/OLDCamera12.webp"
+      ]
+    },
+
+{
+      "CategoryId":99,
+      "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera01.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera02.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera03.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera04.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera05.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera06.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera07.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera08.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera09.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera10.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera11.webp",
+                          "https://nexusemployee416.github.io/video/wall_data/camera/ProfessionalCamera12.webp"
+      ]
+    },
      {
       "CategoryId":100,
       "WallPaperUrlList":["https://nexusemployee416.github.io/video/wall_data/camera/camera01.webp",
