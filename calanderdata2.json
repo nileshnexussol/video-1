@@ -1,0 +1,82 @@
+{
+    "CalendarData":[
+ {
+  "CountryName": "Afghanistan",
+   "HolidayData":[
+    {
+     "Country": "Afghanistan",
+     "HolidayName": "Liberation Day",
+     "StartDate": "02/15/2024",
+     "EndDate": "02/16/2024",
+     "Description": "Public holiday"
+    },
+    {
+     "Country": "Afghanistan",
+     "HolidayName": "First Day of Ramadan",
+     "StartDate": "03/11/2024",
+     "EndDate": "03/12/2024",
+     "Description": "Public holiday"
+    },
+    {
+     "Country": "Afghanistan",
+     "HolidayName": "Nauruz",
+     "StartDate": "03/21/2024",
+     "EndDate": "03/22/2024",
+     "Description": "Observance To hide observances, go to Google Calendar Settings > Holidays in Afghanistan"
+    }
+]
+ },{
+    "CountryName": "Albania",
+     "HolidayData":[
+        {
+            "Country": "Albania",
+            "HolidayName": "New Year's Day (Day 2)",
+            "StartDate": "01/02/2024",
+            "EndDate": "01/03/2024",
+            "Description": "Public holiday"
+           },
+           {
+            "Country": "Albania",
+            "HolidayName": "Valentine's Day",
+            "StartDate": "02/14/2024",
+            "EndDate": "02/15/2024",
+            "Description": "Observance To hide observances, go to Google Calendar Settings > Holidays in Albania"
+           },
+            
+           {
+            "Country": "Algeria",
+            "HolidayName": "New Year",
+            "StartDate": "01/01/2024",
+            "EndDate": "01/02/2024",
+            "Description": "Public holiday"
+           }
+  ]
+   },{
+    "CountryName": "Albania",
+     "HolidayData":[
+        {
+            "Country": "Albania",
+            "HolidayName": "New Year's Day (Day 2)",
+            "StartDate": "01/02/2024",
+            "EndDate": "01/03/2024",
+            "Description": "Public holiday"
+           },
+           {
+            "Country": "Albania",
+            "HolidayName": "Valentine's Day",
+            "StartDate": "02/14/2024",
+            "EndDate": "02/15/2024",
+            "Description": "Observance To hide observances, go to Google Calendar Settings > Holidays in Albania"
+           },
+            
+           {
+            "Country": "Algeria",
+            "HolidayName": "New Year",
+            "StartDate": "01/01/2024",
+            "EndDate": "01/02/2024",
+            "Description": "Public holiday"
+           }
+  ]
+   }
+    ]
+}
