@@ -3,97 +3,97 @@
     {
       "CategoryName": "Xmas",
       "CategoryId": 101,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/christmas.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/christmas.webp"
     },
     {
       "CategoryName": "Aesthetics",
       "CategoryId": 102,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/aesthetics.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/aesthetics.webp"
     },
     {
       "CategoryName": "Anatomy",
       "CategoryId": 103,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/anatomy.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/anatomy.webp"
     },
     {
       "CategoryName": "Animal",
       "CategoryId": 104,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/animal.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/animal.webp"
     },
     {
       "CategoryName": "Anime",
       "CategoryId": 105,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/anime.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/anime.webp"
     },
     {
       "CategoryName": "Architecture",
       "CategoryId": 106,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/architecture.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/architecture.webp"
     },
     {
       "CategoryName": "Basic",
       "CategoryId": 107,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/basic.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/basic.webp"
     },
     {
       "CategoryName": "Car",
       "CategoryId": 108,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/car.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/car.webp"
     },
     {
       "CategoryName": "Cartoon",
       "CategoryId": 109,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/cartoon.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/cartoon.webp"
     },
     {
       "CategoryName": "Chibi",
       "CategoryId": 110,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/cat_sports.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/chibi.webp"
     },
     {
       "CategoryName": "Cute",
       "CategoryId": 111,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/chibi.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/cute.webp"
     },
     {
       "CategoryName": "Food",
       "CategoryId": 112,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/food.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/food.webp"
     },
     {
       "CategoryName": "Kids",
       "CategoryId": 113,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/kids.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/kids.webp"
     },
     {
       "CategoryName": "K-pop",
       "CategoryId": 114,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/k-pop.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/k-pop.webp"
     },
     {
       "CategoryName": "Manga",
       "CategoryId": 115,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/manga.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/manga.webp"
     },
     {
       "CategoryName": "Nature",
       "CategoryId": 116,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/nature.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/nature.webp"
     },
     {
       "CategoryName": "Noel",
       "CategoryId": 117,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/noel.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/noel.webp"
     },
     {
       "CategoryName": "Objects",
       "CategoryId": 118,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/objects.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/objects.webp"
     },
     {
       "CategoryName": "People",
       "CategoryId": 119,
-      "CategoryThmub": "https://nexusemployee416.github.io/video/wall_data/cat_thumb/people.webp"
+      "CategoryThmub": "https://nexusemployee416.github.io/video/ar_data/cat_thumb/people.webp"
     }
   ],
   "WallPaper": [
